@@ -1,0 +1,61 @@
+.title {
+    color: #f2f2f2;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.takeProfitForm{
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    padding: 20px 0px;
+}
+
+.inputGroup label{
+    margin-right: 10px;
+}
+
+.inputGroup input{
+    width: 300px;
+    height: 30px;
+    border: none;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.result{
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.result h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Phases{
+    margin: 0px 60px;
+}
